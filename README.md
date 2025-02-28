@@ -10,6 +10,6 @@ Maker Media GmbH
 
 In diesem Artikel geht es darum, an einem spannenden Projekt die Möglichkeiten eines inzwischen allgegenwärtigen Funkstandards zu erkunden und einen ebenso praktischen wie faszinierenden Gegenstand zu entwickeln, der von Herzen kommt. Ein ESP32 empfängt den Puls per BLE von einem Brustgurt und zeigt die Herzschläge sichtbar und spürbar an.
 
-![Picture](https://github.com/MakeMagazinDE/Herzenssache/blob/master/Herzenssache.jpg) 
+![Picture](https://github.com/MakeMagazinDE/Herzenssache/blob/master/Herz.png) 
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/24](https://www.heise.de/select/make/2025/2/2502210392643091084).
