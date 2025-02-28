@@ -4,12 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Herzschlaganzeige über Bluetooth
 
 ### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Ein ESP32 empfängt den Puls per BLE von einem beliebigen Brustgurt und lässt LEDs im Takt des eigenen Herzens aufleuchten.
 
-![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/Fraestisch.jpg) 
+![Picture](https://github.com/MakeMagazinDE/Herzenssache/blob/master/Herzenssache.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/24 ab Seite 118](https://www.heise.de/select/make/2025/2/2502210392643091084).
