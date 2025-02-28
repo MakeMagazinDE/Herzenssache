@@ -6,9 +6,9 @@ Maker Media GmbH
 
 # Herzschlaganzeige über Bluetooth
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Herzklopfen zum Nachbauen: Unser Projekt lässt LEDs im Takt des eigenen Herzens aufleuchten.
 
-Ein ESP32 empfängt den Puls per BLE von einem beliebigen Brustgurt und lässt LEDs im Takt des eigenen Herzens aufleuchten.
+Ein ESP32 empfängt den Puls per BLE von einem Brustgurt und zeigt die Herzschläge sichtbar und spürbar an.
 
 ![Picture](https://github.com/MakeMagazinDE/Herzenssache/blob/master/Herzenssache.jpg) 
 
